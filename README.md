@@ -13,3 +13,6 @@
 
 DaysCountdown:
 Similiar to DaysPassed but counts down to a set date in unix time
+
+PlayerToTMP:
+Pastes the local player name into a textmeshpro textfield
