@@ -10,7 +10,6 @@ public class intensitySynced : UdonSharpBehaviour
     public LTCGI_UdonAdapter ltcgi;
     public GameObject ltcgiEmitter;
     int screenIndex;
-    float intensityValue = 1.0f;
     MaterialPropertyBlock propertyBlock;
     Renderer EmissionRenderer;
     Color screenColor;
